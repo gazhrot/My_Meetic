@@ -1,0 +1,91 @@
+/*#inscription {
+	background-color: rgba(255,255,255,0.5);
+	width: 350px;
+	height: auto;
+	border-radius: 15px;
+	text-align: center;
+	margin: 100px auto;
+}*/
+/*#submit {
+	background-color: green; 
+}
+body {
+	background-color: red;
+}
+select {
+	max-width: 150px;
+}
+#connection {
+	width: 50px;
+	height: 20px;
+	background-color: green;
+}
+*/
+
+#accueil {
+	text-align: center;
+	position: relative;
+	width: 850px;
+	height: 450px;
+	margin: auto;
+}
+
+#go {
+	margin: auto;
+}
+
+#accueil > p {
+	font-size: 1.1em;
+}
+
+.slideBox li {
+	text-align: center;
+	margin: auto;
+	list-style-type: none;
+	height: 450px;
+	width: 850px; 
+}
+
+#profil {
+	height: 450px;
+	width: 850px;
+	max-height: 450px; 
+	overflow: hidden; 
+	padding: 0; 
+	margin: auto;
+	margin-top: 10px;
+	border: 2px solid black;
+}
+
+form > div {
+	height: 450px;
+	width: 850px;
+	text-align: center;
+}
+
+div > p {
+	font-size: 2em;
+}
+div > select {
+	font-size: 1.8em;
+}
+#prev {
+	width: 15px;
+	height: 15px;
+	margin: auto;
+}
+
+#next {
+	width: 15px;
+	height: 15px;
+	margin: auto;
+}
+
+#prev, #next {
+	cursor: pointer;
+}
+
+#a17 > textarea {
+	width: 150px;
+	height: auto;
+}
